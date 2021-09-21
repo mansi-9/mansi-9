@@ -1,3 +1,5 @@
+![](banner.gif)
+
 <h1 align="center">Hi 👋, I'm Mansi Saini</h1>
 <h3 align="center">Just a tech savvy person trying to explore more and more!!!</h3>
 
