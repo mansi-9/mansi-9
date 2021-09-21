@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mansi Saini</h1>
 <h3 align="center">Just a tech savvy person trying to explore more and more!!!</h3>
 
-- 🌱 I’m currently learning **I’m currently exploring more to enhance my skills.**
+- 🌱**I’m currently exploring more to enhance my skills.**
 
 
 <h3 align="left">Languages and Tools:</h3>
